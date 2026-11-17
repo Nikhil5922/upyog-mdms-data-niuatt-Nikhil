@@ -31391,8 +31391,8 @@
       "code": "null",
       "path": "",
       "navigationURL": ""
-    }
-	{
+    },
+    {
       "id": 4815,
       "name": "Create Citizen Rural Property",
       "url": "/user/v1/rural-property/_create",
@@ -31495,6 +31495,62 @@
       "name": "Delete Citizen Vehicle",
       "url": "/user/v1/vehicle/_delete",
       "displayName": "Delete Citizen Vehicle",
+      "orderNumber": 0,
+      "queryParams": "",
+      "parentModule": "User",
+      "enabled": true,
+      "serviceCode": "egov-user",
+      "code": "null",
+      "path": "",
+      "navigationURL": ""
+    },
+    {
+      "id": 4823,
+      "name": "Create Citizen Income",
+      "url": "/user/v1/income/_create",
+      "displayName": "Create Citizen Income",
+      "orderNumber": 0,
+      "queryParams": "",
+      "parentModule": "User",
+      "enabled": true,
+      "serviceCode": "egov-user",
+      "code": "null",
+      "path": "",
+      "navigationURL": ""
+    },
+    {
+      "id": 4824,
+      "name": "Update Citizen Income",
+      "url": "/user/v1/income/_update",
+      "displayName": "Update Citizen Income",
+      "orderNumber": 0,
+      "queryParams": "",
+      "parentModule": "User",
+      "enabled": true,
+      "serviceCode": "egov-user",
+      "code": "null",
+      "path": "",
+      "navigationURL": ""
+    },
+    {
+      "id": 4825,
+      "name": "Search Citizen Income",
+      "url": "/user/v1/income/_search",
+      "displayName": "Search Citizen Income",
+      "orderNumber": 0,
+      "queryParams": "",
+      "parentModule": "User",
+      "enabled": true,
+      "serviceCode": "egov-user",
+      "code": "null",
+      "path": "",
+      "navigationURL": ""
+    },
+    {
+      "id": 4826,
+      "name": "Delete Citizen Income",
+      "url": "/user/v1/income/_delete",
+      "displayName": "Delete Citizen Income",
       "orderNumber": 0,
       "queryParams": "",
       "parentModule": "User",
