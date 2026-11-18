@@ -39679,12 +39679,6 @@
       "actionid": 4827,
       "actioncode": "",
       "tenantId": "pg"
-    },
-    {
-      "rolecode": "EMPLOYEE",
-      "actionid": 4827,
-      "actioncode": "",
-      "tenantId": "pg"
     }
   ]
 }
