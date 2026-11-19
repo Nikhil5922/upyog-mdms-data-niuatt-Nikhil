@@ -31559,6 +31559,20 @@
       "code": "null",
       "path": "",
       "navigationURL": ""
+    },
+    {
+      "id": 4827,
+      "name": "Check Citizen Head of Family Status by Aadhaar",
+      "url": "/user/profile/aadhaar/_checkHof",
+      "displayName": "Check Aadhaar Head of Family Status",
+      "orderNumber": 0,
+      "queryParams": "",
+      "parentModule": "User",
+      "enabled": true,
+      "serviceCode": "egov-user",
+      "code": "null",
+      "path": "",
+      "navigationURL": ""
     }
   ]
 }

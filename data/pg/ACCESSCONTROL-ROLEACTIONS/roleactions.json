@@ -39675,6 +39675,12 @@
       "tenantId": "pg"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 4827,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
       "rolecode": "FAMILY_APPROVER",
       "actionid": 4726,
       "actioncode": "",

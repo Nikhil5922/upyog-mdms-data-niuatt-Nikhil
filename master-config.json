@@ -196,6 +196,14 @@
       "uniqueKeys": [
         "$.code"
       ]
+    },
+    "PropertyOwnershipType": {
+      "masterName": "PropertyOwnershipType",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
     }
   },
   "egf-master": {
